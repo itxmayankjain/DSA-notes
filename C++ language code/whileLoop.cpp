@@ -16,7 +16,7 @@ int main(){
     int sum = 0;
     int n;
     cin>>n;
-    int i = 1;
+    int i = 2;
     while(i<=n){
         sum = sum+i;
        cout<<sum;
