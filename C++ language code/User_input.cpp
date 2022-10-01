@@ -32,6 +32,5 @@ int main(){
     else if( ch>='0' && ch<='9'){
         cout<<"this ch is a numeric"<<endl;
     }
-
 }*/
 
