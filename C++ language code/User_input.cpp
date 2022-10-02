@@ -1,3 +1,6 @@
+// find given number is positive or negative
+
+
 /*#include<iostream>
 using namespace std;
 int main(){
@@ -17,6 +20,8 @@ int main(){
     }
 
 }*/
+
+// give input character
 
 /*#include<iostream>
 using namespace std;
