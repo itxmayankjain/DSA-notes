@@ -1,0 +1,11 @@
+// print 1 to N number by using for loop
+#include<iostream>
+using namespace std;
+int main(){
+    int n;
+    cout<<"enter the value of n"<<endl;
+    cin>>n;
+    for(int i=1; i<=n; i++)
+    cout<<i<<endl;
+    return 0;
+}
